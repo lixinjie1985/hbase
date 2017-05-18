@@ -1,0 +1,1 @@
+hadoop数据库，一个分布式、可扩展、大数据存储。可以随机、实时的对大数据进行读写操作，目标是在商用硬件集群上面托管超大表，十亿行X百万列，效仿google的bigtable而成的非关系数据库，google的bigtable能够撬动分布式数据存储是因为底层由Google File System文件系统支持，hbase有这种能力是因为底层由Hadoop and HDFS提供支持。
